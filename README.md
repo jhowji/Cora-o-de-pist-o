@@ -1,2 +1,2 @@
-# Coraçao de pistao
+# Coracao de pistao
 TCC faculdade de jogos
